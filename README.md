@@ -1,3 +1,1 @@
-hello there."# junction" 
-"# junction" 
-"# junction" 
+hello there
